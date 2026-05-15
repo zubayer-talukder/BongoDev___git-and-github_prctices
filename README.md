@@ -212,5 +212,4 @@ Hello, My name is Md. Nuruzaman Milon. I am from Uttara, Dhaka.
 
 Hi there, I am Najmus Sakib, I am from Dhaka.
 
-Hello, I'm Khairul Islam. I come from Mirpur,Dhaka.
-
+Hi, This is Ali
