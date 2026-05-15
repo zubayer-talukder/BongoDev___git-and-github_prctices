@@ -184,4 +184,6 @@ Hi there, I'm Shakib from Chattogram.
 
 Hello, I'm Tahshin Sharon From Mirpur,Dhaka
 
+Assalamu Alikum, I am Mohamamd Nafiz Enam, I am from Dhaka, Bangladesh
+
 Hi, This is Ali
