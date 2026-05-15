@@ -190,8 +190,6 @@ Hi, I am Sourov from Dhaka
 
 Hi there, I'm Shakib from Chattogram.
 
-Hello, I'm Amir Hamza  From Mirpur,Dhaka
-
 Hello, I'm Tahshin Sharon From Mirpur,Dhaka
 
 Hello, I'm Shahabuddin Talukder From Agargaon, Taltala, Dhaka-1207.
@@ -213,6 +211,4 @@ Hi, I am Afak from Wari, Dhaka
 Hello, My name is Md. Nuruzaman Milon. I am from Uttara, Dhaka.
 
 Hi there, I am Najmus Sakib, I am from Dhaka.
-
-Hello, I'm Khairul Islam. I come from Mirpur,Dhaka.
-
+Hi, This is Ali
