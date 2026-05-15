@@ -190,6 +190,8 @@ Hi there, I'm Shakib from Chattogram.
 
 Hello, I'm Tahshin Sharon From Mirpur,Dhaka
 
+Hello, I'm Md Hasibul Islam Shanto from Rangpur
+
 Hello, I am Ripas Sorker Rifat, I am from Panchagarh.
 
 Hi, I am Afak from Wari, Dhaka
