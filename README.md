@@ -177,11 +177,20 @@ Hi, I am Aqib from Dhaka.
 Hi, I am Shahmidul from Dhaka
 
 I am Yaqub from Dhaka.
+
 Hi, This is hannan from Bangladesh !
 
+Hello , I'm Abdullah Zubayer Talukder  from Mymensing Enginnering College, CSE Dept.
+
+Hi, This is hannan from Bangladesh !
 
 Hi, I am Sourov from Dhaka
 
 Hi there, I'm Shakib from Chattogram.
 
 Hello, I'm Tahshin Sharon From Mirpur,Dhaka
+
+Hi there, I am Najmus Sakib, I am from Dhaka.
+
+Hello, I'm Khairul Islam. I come from Mirpur,Dhaka.
+
