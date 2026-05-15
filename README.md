@@ -190,6 +190,8 @@ Hi there, I'm Shakib from Chattogram.
 
 Hello, I'm Tahshin Sharon From Mirpur,Dhaka
 
+Hi, I am Afak from Wari, Dhaka
+
 Hello, My name is Md. Nuruzaman Milon. I am from Uttara, Dhaka.
 
 Hi there, I am Najmus Sakib, I am from Dhaka.
