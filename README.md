@@ -190,6 +190,8 @@ Hi there, I'm Shakib from Chattogram.
 
 Hello, I'm Tahshin Sharon From Mirpur,Dhaka
 
+Assalamualimuk, This is AB Rhaim from Dhaka
+
 Assalamalaikum, I'm Jahid Hassan Khan from Rajshshi
 
 Hi! This is Prodip Gour from Dhaka. 
