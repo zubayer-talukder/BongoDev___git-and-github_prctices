@@ -240,3 +240,5 @@ Assalamualaikum, I am Miraz and I'm from Cumilla
 Hello, I'm Md Jahid Hasan From Dhaka
 
 Assalamo Alaikum, I am Kaikobad from Narsingdi
+
+Assalam, I am Arafat. I am from Dhaka
